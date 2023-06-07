@@ -1,0 +1,27 @@
+body{
+    background-color: #62374E;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    place-items: center;
+    height: 100vh;
+ }
+.q1{
+    width: 100px;
+    height: 100px;
+    background-color: #FDC57B;
+}
+.q2{
+    width: 100px;
+    height: 100px;
+    background-color: #FDC57B;
+}
+.q3{
+    width: 100px;
+    height: 100px;
+    background-color: #FDC57B;
+}.q4{
+    width: 100px;
+    height: 100px;
+    background-color: #FDC57B;
+}
